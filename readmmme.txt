@@ -1,0 +1,32 @@
+github profile of developer
+https://github.com/meetDeveloper/freeDictionaryAPI
+
+api website
+https://dictionaryapi.dev/
+
+//library used in project
+material ui
+axios
+
+font monserrat thin 200 in title
+
+theme
+background color #282c34
+color white
+
+
+1 initilize axios and material ui and install app
+2. import data from api and save in usestates
+
+
+
+api
+change api when changes the search box value and language
+
+material ui
+import standard text import theme, import container
+change color in theme to white for primary
+
+
+
+error!  other languages are not working because of not available
